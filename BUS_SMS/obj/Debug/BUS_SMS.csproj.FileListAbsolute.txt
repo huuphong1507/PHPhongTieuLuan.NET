@@ -1,0 +1,18 @@
+D:\Bai Thi C# Winform\SMS\BUS_SMS\bin\Debug\BUS_SMS.dll
+D:\Bai Thi C# Winform\SMS\BUS_SMS\bin\Debug\BUS_SMS.pdb
+D:\Bai Thi C# Winform\SMS\BUS_SMS\bin\Debug\DAL_SMS.dll
+D:\Bai Thi C# Winform\SMS\BUS_SMS\bin\Debug\DAL_SMS.pdb
+D:\Bai Thi C# Winform\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.AssemblyReference.cache
+D:\Bai Thi C# Winform\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.CoreCompileInputs.cache
+D:\Bai Thi C# Winform\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.CopyComplete
+D:\Bai Thi C# Winform\SMS\BUS_SMS\obj\Debug\BUS_SMS.dll
+D:\Bai Thi C# Winform\SMS\BUS_SMS\obj\Debug\BUS_SMS.pdb
+F:\Bai Thi C# Winform Test\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.AssemblyReference.cache
+F:\Bai Thi C# Winform Test\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.CoreCompileInputs.cache
+F:\Bai Thi C# Winform Test\SMS\BUS_SMS\obj\Debug\BUS_SMS.dll
+F:\Bai Thi C# Winform Test\SMS\BUS_SMS\obj\Debug\BUS_SMS.pdb
+F:\Bai Thi C# Winform Test\SMS\BUS_SMS\bin\Debug\BUS_SMS.dll
+F:\Bai Thi C# Winform Test\SMS\BUS_SMS\bin\Debug\BUS_SMS.pdb
+F:\Bai Thi C# Winform Test\SMS\BUS_SMS\bin\Debug\DAL_SMS.dll
+F:\Bai Thi C# Winform Test\SMS\BUS_SMS\bin\Debug\DAL_SMS.pdb
+F:\Bai Thi C# Winform Test\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.CopyComplete

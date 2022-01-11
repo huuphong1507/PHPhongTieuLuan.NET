@@ -1,0 +1,30 @@
+D:\Bai Thi C# Winform\SMS\GUI_SMS\bin\Debug\GUI_SMS.exe.config
+D:\Bai Thi C# Winform\SMS\GUI_SMS\bin\Debug\GUI_SMS.exe
+D:\Bai Thi C# Winform\SMS\GUI_SMS\bin\Debug\GUI_SMS.pdb
+D:\Bai Thi C# Winform\SMS\GUI_SMS\bin\Debug\BUS_SMS.dll
+D:\Bai Thi C# Winform\SMS\GUI_SMS\bin\Debug\DAL_SMS.dll
+D:\Bai Thi C# Winform\SMS\GUI_SMS\bin\Debug\BUS_SMS.pdb
+D:\Bai Thi C# Winform\SMS\GUI_SMS\bin\Debug\DAL_SMS.pdb
+D:\Bai Thi C# Winform\SMS\GUI_SMS\obj\Debug\GUI_SMS.csproj.AssemblyReference.cache
+D:\Bai Thi C# Winform\SMS\GUI_SMS\obj\Debug\GUI_SMS.GUI_DanhBaPhone.resources
+D:\Bai Thi C# Winform\SMS\GUI_SMS\obj\Debug\GUI_SMS.Properties.Resources.resources
+D:\Bai Thi C# Winform\SMS\GUI_SMS\obj\Debug\GUI_SMS.csproj.GenerateResource.cache
+D:\Bai Thi C# Winform\SMS\GUI_SMS\obj\Debug\GUI_SMS.csproj.CoreCompileInputs.cache
+D:\Bai Thi C# Winform\SMS\GUI_SMS\obj\Debug\GUI_SMS.exe
+D:\Bai Thi C# Winform\SMS\GUI_SMS\obj\Debug\GUI_SMS.pdb
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\bin\Debug\GUI_SMS.exe.config
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\bin\Debug\GUI_SMS.exe
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\bin\Debug\GUI_SMS.pdb
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\bin\Debug\BUS_SMS.dll
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\bin\Debug\DAL_SMS.dll
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\bin\Debug\BUS_SMS.pdb
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\bin\Debug\DAL_SMS.pdb
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\obj\Debug\GUI_SMS.csproj.AssemblyReference.cache
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\obj\Debug\GUI_SMS.frmLogin.resources
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\obj\Debug\GUI_SMS.frmMain.resources
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\obj\Debug\GUI_SMS.GUI_DanhBaPhone.resources
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\obj\Debug\GUI_SMS.Properties.Resources.resources
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\obj\Debug\GUI_SMS.csproj.GenerateResource.cache
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\obj\Debug\GUI_SMS.csproj.CoreCompileInputs.cache
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\obj\Debug\GUI_SMS.exe
+F:\Bai Thi C# Winform Test\SMS\GUI_SMS\obj\Debug\GUI_SMS.pdb
